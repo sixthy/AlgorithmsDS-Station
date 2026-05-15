@@ -1,0 +1,11 @@
+localizacao_do_problema,Problema1
+horario_abertura,07:00
+horario_fecho,22:00
+capacidade_do_parque,4
+numero_de_lugares_vip,2
+duracao_atendimento,2
+duracao_bilheteira_plataforma,3
+duracao_entrada_plataforma,2
+duracao_plataforma_parque,4
+duracao_embarque,3
+duracao_desembarque,2

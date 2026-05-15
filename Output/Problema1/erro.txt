@@ -1,0 +1,3 @@
+Passageiro Quim não conseguiu bilhete para nenhuma viagem
+Passageiro Rita não conseguiu bilhete para nenhuma viagem
+Colisão entre o comboio C06 da chegada das 12:20 e o comboio C05
